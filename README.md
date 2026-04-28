@@ -4,7 +4,7 @@
 ![GUI](https://img.shields.io/badge/GUI-Swing-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-A two-player turn-based tank battle game built using Java Swing. Players control tank turrets, adjust shot power, and fire projectiles with realistic parabolic motion to hit their opponent. :contentReference[oaicite:0]{index=0}
+A two-player turn-based tank battle game built using Java Swing. Players control tank turrets, adjust shot power, and fire projectiles with realistic parabolic motion to hit their opponent.
 
 ---
 
